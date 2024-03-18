@@ -6,7 +6,7 @@ body, h1, h2, p, ul, li {
 
 /* Style header */
 header {
-    background-color: #1e90ff; /* Deep sky blue */
+    background-color: red; /* Deep sky blue */
     color: #fff;
     text-align: center;
     padding: 20px 0;
@@ -14,7 +14,7 @@ header {
 
 /* Style navigation */
 nav {
-    background-color: #f3f3f3; /* Light gray */
+    background-color: green; /* Light gray */
     padding: 10px 0;
 }
 
